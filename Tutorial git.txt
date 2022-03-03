@@ -1,0 +1,20 @@
+Passo a passo para upar arquivo no repositorio
+
+1. bash here - na pasta desejada
+
+// No cmd
+
+2. git init
+
+3. git status
+
+4. git add .
+
+5. git commit -m "commit inicial"
+
+6. git remote add origin + url do seu repositorio 
+
+7. git push --set-upstream origin master (caso queira na branch master)
+
+8. git push
+
