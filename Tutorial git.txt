@@ -16,5 +16,5 @@ Passo a passo para upar arquivo no repositorio
 
 7. git push --set-upstream origin master (caso queira na branch master)
 
-8. git push
+8. git pushh
 
