@@ -1,0 +1,43 @@
+Comandos úteis
+
+1. Git status - verificar status
+
+2. git commit -m " msg " - indentificar versão do código
+
+3. git reflog - verificar versões existentes e seus IDs
+
+4. git reset --hard + codigo commit reflog - fazer mudança seja para versão antigos ou ja existentes
+
+
+//Comandos Branch
+
+1. git pull - atualizar
+
+2. git branch - verificar qual branch esta 
+
+3. git branch nome - criar nova branch
+
+4. git checkout nome - trocar a branch que vai receber o push
+
+5. git add . git commit git push - para testar 
+
+
+1. git checkout -b nome-da-branch master - cria com base na master 
+
+
+//Comandos merge
+
+1. git branch
+
+2. git checkout master - trocar para a branch que vai reber o merge
+
+3. git pull 
+
+4. git merge nome 
+
+5. git push
+
+
+//GitIgnore
+
+1. touch .gitignore
